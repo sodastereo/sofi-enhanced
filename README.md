@@ -1,6 +1,6 @@
 # [SoFi.com Minimal](https://github.com/sodastereo/sofi-enhanced)
 
-A clean and minimal UI for SoFi.com. It removes the boxes from view, giving you a clean view.
+A clean and minimal UI for SoFi.com using Firefox or Chrome. It removes the boxes from view, giving you a clean view.
 
 ## Preview
 
